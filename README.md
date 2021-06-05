@@ -1,6 +1,6 @@
 # Welcome to Project 1 (Week 1!)Review
 
-Fpr this project we were preparing ourselves to be able to work well with the Command Line Interface (CLI), Visual Studio Code (VSC) as a whole, and to gain experience on writing and executing noniweb server Node.js javascript code.
+For this project we were preparing ourselves to be able to work well with the Command Line Interface (CLI), Visual Studio Code (VSC) as a whole, and to gain experience on writing and executing noniweb server Node.js javascript code.
 
 
 ## Displaying folders through the (CLI) Command Line Interface
