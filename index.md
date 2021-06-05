@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+# Welcome to Project 1 (Week 1!)Review
 
-You can use the [editor on GitHub](https://github.com/CharlezDouglas1/cit281-p1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Fpr this project we were preparing ourselves to be able to work well with the Command Line Interface (CLI), Visual Studio Code (VSC) as a whole, and to gain experience on writing and executing noniweb server Node.js javascript code.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Displaying folders through the (CLI) Command Line Interface
+<img width="350" alt="p1-folders" src="https://user-images.githubusercontent.com/81718217/120874657-8e4ce800-c55c-11eb-8931-5f9b00046772.png">
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Displaying a Tree of folders, through the (CLI) Command LIne Interface
+<img width="484" alt="p1-tree" src="https://user-images.githubusercontent.com/81718217/120874869-7f1a6a00-c55d-11eb-8c08-f9eb59da2992.png">
 
-```markdown
-Syntax highlighted code block
+## Displaying the output of the current ping from a server
+<img width="454" alt="p1-ping" src="https://user-images.githubusercontent.com/81718217/120874908-a96c2780-c55d-11eb-8d9a-ed15904932b3.png">
 
-# Header 1
-## Header 2
-### Header 3
+### Main takeaway/Interest from this Project 1:
+   - I was really intrigued and interested by the communication between the server and how it can show the current pin, also the fact that you can literally use the (CLI) to honestly acess whatever inside of a computer is really interesting to me as well.
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CharlezDouglas1/cit281-p1/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
